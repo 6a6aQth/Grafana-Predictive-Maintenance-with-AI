@@ -1,4 +1,4 @@
-# AI-Predictive-Maintenance-Hydro
+# Grafana-Predictive-Maintenance-with-AI
 
 ## Project Overview
 AI-Predictive-Maintenance-Hydro is an end-to-end industrial IoT solution designed for predictive maintenance in hydroelectric power stations. The system simulates SCADA sensor data, processes it through a robust data pipeline, and provides real-time monitoring and predictive analytics through Grafana dashboards.
